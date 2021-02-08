@@ -1,5 +1,5 @@
 #!/bin/bash
-# CamPhish v1.0
+# cdCamPhish v1.0
 # Powered by TechChip
 # Credits goes to thelinuxchoice [github.com/thelinuxchoice/]
 
